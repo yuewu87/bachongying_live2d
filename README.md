@@ -1,0 +1,2 @@
+# bachongying_live2d
+使用live2d形象的八重樱角色扮演程序
