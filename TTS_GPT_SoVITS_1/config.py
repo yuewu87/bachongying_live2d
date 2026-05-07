@@ -10,7 +10,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # GPT-SoVITS模型配置
 TTS_CONFIG = {
     # api-key
-    "api_key": "sk-9a0ff400d4fc4c07b13c483748590113", 
+    "api_key": "请填写密钥", 
 
     # url
     "base_url": "https://api.deepseek.com",
